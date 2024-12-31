@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a MERN (MongoDB, Express, React, Node.js) stack project that showcases modern development practices. The frontend is built using React with TypeScript, enhanced by Tailwind CSS for styling and Framer Motion for smooth animations. The backend is powered by Node.js and Express, with secure authentication implemented using JWT. Passwords are securely stored using hashing.
+This is a MERN (MongoDB, Express, React, Node.js) stack project that showcases modern development practices.
 
 
 ### Functionality:
