@@ -7,7 +7,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: ["http://localhost:5173"], // allowing only this origin to send API request eg: http://localhost:3000
+    origin: ["https://pay-on.vercel.app"], // allowing only this origin to send API request eg: http://localhost:3000
     methods: ["POST", "GET"],
     credentials: true,
   })
