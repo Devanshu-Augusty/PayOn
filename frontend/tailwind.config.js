@@ -5,7 +5,6 @@ export default {
     extend: {
       backgroundImage: {
         "landing-page": "url('./assets/landing-page.jpg')",
-        "authenticate-page": "url('./assets/authenticate-gif.webp')",
         "home-page": "url('./assets/home.webp')",
       },
     },

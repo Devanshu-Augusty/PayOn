@@ -8,7 +8,7 @@ const Authentication = () => {
   const [isSigningUp, setIsSigningUp] = useState<boolean>(true);
 
   return (
-    <div className="px-3 w-full h-screen overflow-y-scroll bg-authenticate-page text-white flex items-start justify-center pt-20 pb-10">
+    <div className="px-3 w-full h-screen overflow-y-scroll bg-[#0A122A] text-white flex items-start justify-center pt-20 pb-10">
       <NavBar
         menu={unAuthorizedMenu}
         isUserAuthorized={false}
