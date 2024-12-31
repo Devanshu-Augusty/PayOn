@@ -14,6 +14,11 @@ app.use(
 );
 
 app.use(express.json());
+
+app.get("/", (req, res) => {
+  res.json("server up and running...")
+})
+
 app.use("/api/v2", userRouter);
 app.use("/api/v2", transactionRouter);
 
