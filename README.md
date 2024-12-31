@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a MERN (MongoDB, Express, React, Node.js) stack project that showcases modern development practices.
+This is a MERN (MongoDB, Express, React, Node.js) stack project that showcases modern development practices. Allow users to send money online to each other and check transaction history also.
 
 
 ### Functionality:
