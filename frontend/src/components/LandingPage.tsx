@@ -17,7 +17,7 @@ const LandingPage = () => {
   }[] = [
     {
       icon: <IoTimeOutline />,
-      text: "Solve Prolems Real time",
+      text: "Solve Problems Real time",
     },
     {
       icon: <FaLock />,
@@ -25,7 +25,7 @@ const LandingPage = () => {
     },
     {
       icon: <TfiHeadphoneAlt />,
-      text: "24/7 Cutomer Support",
+      text: "24/7 Customer Support",
     },
   ];
 
